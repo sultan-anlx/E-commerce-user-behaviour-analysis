@@ -210,7 +210,7 @@ Users with stronger engagement and lower bounce behaviour were more likely to co
 
 This highlights the importance of the **early customer experience**, particularly the ability of the website to retain visitors and encourage further exploration.
 
----
+--
 
 # 3. Marketing Effectiveness
 
